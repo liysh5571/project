@@ -1,0 +1,8 @@
+com\project\sale\dao\ISysLogDao.class
+com\project\sale\dao\IPermissionDao.class
+com\project\sale\dao\IProductDao.class
+com\project\sale\dao\IRoleDao.class
+com\project\sale\dao\IMemberDao.class
+com\project\sale\dao\IOrdersDao.class
+com\project\sale\dao\ITravellerDao.class
+com\project\sale\dao\IUserDao.class

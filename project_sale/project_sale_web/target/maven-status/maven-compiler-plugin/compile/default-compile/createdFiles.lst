@@ -1,0 +1,7 @@
+com\project\sale\controller\OrderController.class
+com\project\sale\controller\ProductController.class
+com\project\sale\controller\SysLogController.class
+com\project\sale\controller\UserController.class
+com\project\sale\controller\PermissionController.class
+com\project\sale\controller\RoleController.class
+com\project\sale\controller\LogAop.class

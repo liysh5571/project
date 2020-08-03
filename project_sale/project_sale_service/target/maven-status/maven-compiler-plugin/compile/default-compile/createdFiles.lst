@@ -1,0 +1,12 @@
+com\project\sale\service\impl\ProductServiceImpl.class
+com\project\sale\service\IPermissionService.class
+com\project\sale\service\impl\UserServiceImpl.class
+com\project\sale\service\IUserService.class
+com\project\sale\service\impl\SysLogServiceImpl.class
+com\project\sale\service\IProductService.class
+com\project\sale\service\IRoleService.class
+com\project\sale\service\impl\RoleServiceImpl.class
+com\project\sale\service\ISysLogService.class
+com\project\sale\service\impl\OrdersServiceImpl.class
+com\project\sale\service\IOrdersService.class
+com\project\sale\service\impl\PermissionServiceImpl.class

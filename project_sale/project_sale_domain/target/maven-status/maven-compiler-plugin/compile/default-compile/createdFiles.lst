@@ -1,0 +1,8 @@
+com\project\sale\domain\Member.class
+com\project\sale\domain\SysLog.class
+com\project\sale\domain\Permission.class
+com\project\sale\domain\Product.class
+com\project\sale\domain\Role.class
+com\project\sale\domain\UserInfo.class
+com\project\sale\domain\Orders.class
+com\project\sale\domain\Traveller.class
